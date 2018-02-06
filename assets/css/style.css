@@ -1,0 +1,29 @@
+
+/*
+=========================
+HEADER/MAIN NAV
+=========================
+*/
+
+.navbar-brand {
+    font-size: 2em;
+    padding 4px 0;
+}
+
+
+/*
+=========================
+SIDEBAR NAV
+=========================
+*/
+.fa {
+    margin-right: 6%;
+}
+
+.footer {
+    width: 100%;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    margin-top: 4%;
+}
