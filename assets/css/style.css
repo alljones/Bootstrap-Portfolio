@@ -27,3 +27,20 @@ SIDEBAR NAV
     bottom: 0;
     margin-top: 4%;
 }
+
+/*
+=========================
+CONTENT
+=========================
+*/
+.space {
+    margin-bottom: 3%;
+}
+
+.art {
+    opacity: .7;
+}
+
+.art:hover {
+    opacity: 1;
+}
